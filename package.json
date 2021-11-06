@@ -1,0 +1,29 @@
+{
+  "name": "estudos_node-pugexpress",
+  "version": "1.0.0",
+  "description": "Example of integration of Pug with Express.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx babel-node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uriel-David/Estudos_node-pugExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "@babel/preset-env": "^7.4.5"
+  },
+  "bugs": {
+    "url": "https://github.com/Uriel-David/Estudos_node-pugExpress/issues"
+  },
+  "homepage": "https://github.com/Uriel-David/Estudos_node-pugExpress#readme"
+}
